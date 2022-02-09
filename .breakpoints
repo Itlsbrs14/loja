@@ -1,0 +1,20 @@
+{
+  "files": {
+    "public/js/dropdown.js": [
+      {
+        "id": "9ab92152-efef-49a9-b41d-c0dfe7d9a7f8",
+        "line": 1,
+        "version": 906,
+        "index": 0
+      }
+    ],
+    "public/js/msg.js": [
+      {
+        "id": "ca89fc01-c198-49e9-a625-ca267a42fc09",
+        "line": 1,
+        "version": 1984,
+        "index": 0
+      }
+    ]
+  }
+}
